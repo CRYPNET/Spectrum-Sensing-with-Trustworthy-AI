@@ -19,5 +19,5 @@ This research paper concerns how well different wireless networks work and how t
 - Umit Cali https://www.ntnu.edu/employees/umit.cali
 
 
-## Typical adversarial ML-based adversarial sample generation
-![Adversarial Example](https://github.com/ocatak/6g-channel-estimation-dataset/raw/main/typical_adv.png)
+## System Overview
+![Adversarial Example](https://github.com/ocatak/spectrum_sensing/raw/main/overview.png)
