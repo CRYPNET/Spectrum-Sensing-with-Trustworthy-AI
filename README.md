@@ -4,4 +4,20 @@ This research paper concerns how well different wireless networks work and how t
 
 
 ## Implementation
-- [Jupyter Notebook](https://github.com/ocatak/6g-channel-estimation-dataset/blob/main/Channel_Estimation_Attacks_Github.ipynb)
+- [Jupyter Notebook](https://github.com/ocatak/spectrum_sensing/blob/main/2022_6G_Spectrum_Sensing.ipynb)
+
+## Paper
+* Catak, F. O., Kuzlu, M., Sarp, S., Catak, E., Cali, (2022). Mitigating Attacks on Artificial Intelligence-based Spectrum Sensing for Cellular Network Signals (Accepted - IEEE GLOBECOM 2022).
+* [ArXiv Preprint](https://arxiv.org/abs/2209.13007)
+
+
+## People
+- Ferhat Ozgur Catak https://www.uis.no/nb/profile/ferhat-ozgur-catak-0
+- Murat Kuzlu https://www.odu.edu/directory/people/m/mkuzlu
+- Salih Sarp https://www.odu.edu/directory/people/s/ssarp001
+- Evren Catak https://www.linkedin.com/in/evren-catak/
+- Umit Cali https://www.ntnu.edu/employees/umit.cali
+
+
+## Typical adversarial ML-based adversarial sample generation
+![Adversarial Example](https://github.com/ocatak/6g-channel-estimation-dataset/raw/main/typical_adv.png)
