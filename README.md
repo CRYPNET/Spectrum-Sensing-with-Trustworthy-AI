@@ -6,6 +6,9 @@ This research paper concerns how well different wireless networks work and how t
 ## Implementation
 - [Jupyter Notebook](https://github.com/ocatak/spectrum_sensing/blob/main/2022_6G_Spectrum_Sensing.ipynb)
 
+## Presentation YouTube Video
+[![IEEE GLOBECOM 2022 Presentation](https://img.youtube.com/vi/9YL7Da1VNcw/0.jpg)](https://www.youtube.com/watch?v=9YL7Da1VNcw)
+
 ## Paper
 * Catak, F. O., Kuzlu, M., Sarp, S., Catak, E., Cali, (2022). Mitigating Attacks on Artificial Intelligence-based Spectrum Sensing for Cellular Network Signals (Accepted - IEEE GLOBECOM 2022).
 * [ArXiv Preprint](https://arxiv.org/abs/2209.13007)
